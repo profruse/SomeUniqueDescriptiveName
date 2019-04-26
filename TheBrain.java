@@ -6,6 +6,8 @@ public class TheBrain {
 		System.out.println("does it work?");
 
 		System.out.println("So far, so good...");
+		System.out.println("blah");
+		System.out.println("blah");;
 		// add more
 
 		System.out.println("Is this right");
